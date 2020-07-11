@@ -1,0 +1,28 @@
+Chaco as of 05/30/2020
+Total cases:	824
+Total death:	48
+Death %	5.825242718446602
+----Delta from 05/25/2020----
+Total cases:	83	%10.072815533980583
+Total deaths:	11	%22.916666666666664
+Chaco as of 05/30/2020
+Total cases:	824
+Total death:	48
+Death %	5.825242718446602
+----Delta from 05/25/2020----
+Total cases:	83	%10.072815533980583
+Total deaths:	11	%22.916666666666664
+Chaco as of 06/01/2020
+Total cases:	887
+Total death:	53
+Death %	5.975197294250282
+----Delta from 05/26/2020----
+Total cases:	130	%14.656144306651633
+Total deaths:	9	%16.9811320754717
+Chaco as of 06/03/2020
+Total cases:	920
+Total death:	58
+Death %	6.304347826086956
+----Delta from 05/28/2020----
+Total cases:	124	%13.478260869565217
+Total deaths:	11	%18.96551724137931
