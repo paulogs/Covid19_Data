@@ -3,3 +3,11 @@
 
 ## Display Graphs
 ![](OfficialGraph/ChacoData.png)
+![](OfficialGraph/ArgData.png)
+![](OfficialGraph/ArgDataBar.png)
+![](OfficialGraph/ChacoData.png)
+![](OfficialGraph/ChacoDataBar.png)
+![](OfficialGraph/Charts.pdf)
+![](OfficialGraph/DeathPerArgChaco.png)
+![](OfficialGraph/ProvincesBar.png)
+![](OfficialGraph/ProvincesPie.png)
