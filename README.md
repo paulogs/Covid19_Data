@@ -1,7 +1,18 @@
 # Covid19_Data
-### Project to track covid19 infection data for Argentina, Chaco province, USA and World wide.
+### Project to track covid19 infection data for Argentina, Chaco province, USA and Worldwide.
+## Data source
+Data publish daily from Bing:
+https://raw.githubusercontent.com/microsoft/Bing-COVID-19-Data/master/data/Bing-COVID19-Data.csv
 
-## Display Graphs
+## Charts published by Bing
+https://www.bing.com/covid?form=C19WID&vert=graph
+
+## The graph below show trends that are not widely available
+### Trend showing recovery rates Worldwide and some countries
+![](RecoveredRatesCountries.png)
+### Trend showing death rates Worldwide and some countries
+![](DeathRatesCountries.png)
+### Trends from Argentina and Chaco province
 ![](OfficialGraph/ChacoData.png)
 ![](OfficialGraph/ArgData.png)
 ![](OfficialGraph/ArgDataBar.png)
