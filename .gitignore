@@ -1,3 +1,4 @@
 
 DataFiles/Bing-covid19_data.csv
 DataFiles/.ipynb_checkpoints/Bing-covid19_data-checkpoint.csv
+*.csv
